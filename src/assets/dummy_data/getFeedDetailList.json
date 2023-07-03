@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "id" : 0,
+      "feed_detail_type" : "profile"
+    },
+    {
+      "id" : 1,
+      "feed_detail_type" : "posts"
+    }
+  ]
+}

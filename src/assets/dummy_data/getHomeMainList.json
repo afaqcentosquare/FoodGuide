@@ -1,0 +1,36 @@
+{
+  "data" : [
+    {
+      "id" : 0,
+      "home_type" : "slider"
+    },
+    {
+      "id" : 1,
+      "home_type" : "category"
+    },
+    {
+      "id" : 2,
+      "home_type" : "video"
+    },
+    {
+      "id" : 3,
+      "home_type" : "top_restaurants"
+    },
+    {
+      "id" : 4,
+      "home_type" : "deals"
+    },
+    {
+      "id" : 5,
+      "home_type" : "new_food"
+    },
+    {
+      "id" : 6,
+      "home_type" : "banner"
+    },
+    {
+      "id" : 7,
+      "home_type" : "trending"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "178536490136",
+    "firebase_url": "https://centofood-db0b1-default-rtdb.firebaseio.com",
+    "project_id": "centofood-db0b1",
+    "storage_bucket": "centofood-db0b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178536490136:android:14323d386dda1da671dced",
+        "android_client_info": {
+          "package_name": "com.centofood_mob_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178536490136-062iolf2suhs39u5dvbnlb4h7pgrc35j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centofood_mob_app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "178536490136-2guet7kcm6794t2g8qss9c6v7245549i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centofood_mob_app",
+            "certificate_hash": "ff9b36467646683c14bf2ad852c89521bd1c321e"
+          }
+        },
+        {
+          "client_id": "178536490136-4e5u3jj2gtvmg15k3oa7vhj76eq2e5le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbOg4wwcgxcgzr4CFFj9ONS-_YCNY8ZaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178536490136-4e5u3jj2gtvmg15k3oa7vhj76eq2e5le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "178536490136-1i8fu92j5unhbd3dj6l9lbddl688re21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.centofood-mob-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178536490136:android:e6299cc41f6766a771dced",
+        "android_client_info": {
+          "package_name": "com.centofood_res_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178536490136-1eef5t48vq4g3j9g2a94ot8ciuhrn8rs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centofood_res_app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "178536490136-6vf0t2cunc034gku455st4573q4ja4nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centofood_res_app",
+            "certificate_hash": "ff9b36467646683c14bf2ad852c89521bd1c321e"
+          }
+        },
+        {
+          "client_id": "178536490136-4e5u3jj2gtvmg15k3oa7vhj76eq2e5le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbOg4wwcgxcgzr4CFFj9ONS-_YCNY8ZaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178536490136-4e5u3jj2gtvmg15k3oa7vhj76eq2e5le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "178536490136-1i8fu92j5unhbd3dj6l9lbddl688re21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.centofood-mob-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178536490136:android:cc73d3ba0d15cc3171dced",
+        "android_client_info": {
+          "package_name": "com.foodguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178536490136-aad6alep712ukhpjbspt4nuj1a4058fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodguide",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "178536490136-4e5u3jj2gtvmg15k3oa7vhj76eq2e5le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbOg4wwcgxcgzr4CFFj9ONS-_YCNY8ZaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178536490136-4e5u3jj2gtvmg15k3oa7vhj76eq2e5le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "178536490136-1i8fu92j5unhbd3dj6l9lbddl688re21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.centofood-mob-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

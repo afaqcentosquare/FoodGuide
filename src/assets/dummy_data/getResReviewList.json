@@ -1,0 +1,16 @@
+{
+  "data" : [
+    {
+      "id" : 0,
+      "res_profile_type" : "profile"
+    },
+    {
+      "id" : 1,
+      "res_profile_type" : "video"
+    },
+    {
+      "id" : 2,
+      "res_profile_type" : "review"
+    }
+  ]
+}
